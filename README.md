@@ -9,8 +9,8 @@ We are not allowed to publish the data provided by Arvato Financial Services due
 # Installation
 The following libraries are expected to be used in this project:
 
-NumPy
-pandas
-Sklearn / scikit-learn
-Matplotlib (for data visualization)
-Seaborn (for data visualization) The code should run with no issues using Python versions 3.*.
+- NumPy
+- pandas
+- Sklearn / scikit-learn
+- Matplotlib (for data visualization)
+- Seaborn (for data visualization) The code should run with no issues using Python versions 3.*.
