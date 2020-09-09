@@ -26,4 +26,16 @@ The following libraries are expected to be used in this project:
 
 
 
-Each row of the demographics files represents a single person, but also includes information outside of individuals, including information about their household, building, and neighborhood. We use this information to cluster the general population into groups with similar demographic properties. Then, we see how the people in the customers dataset fit into those created clusters. The hope here is that certain clusters are over-represented in the customers data, as compared to the general population; those over-represented clusters will be assumed to be part of the core userbase. This information can then be used for further applications, such as targeting for a marketing campaign
+Each row of the demographics files represents a single person, but also includes information outside of individuals, including information about their household, building, and neighborhood. We use this information to cluster the general population into groups with similar demographic properties. Then, we see how the people in the customers dataset fit into those created clusters. The hope here is that certain clusters are over-represented in the customers data, as compared to the general population; those over-represented clusters will be assumed to be part of the core userbase. This information can then be used for further applications, such as targeting for a marketing campaign.
+
+
+# Results
+- A good relatioship exists between the general and customers population data.
+- The customers clusters are not universal i.e., the customers are not uniformly distributed in the general population with the population clusters so customers resides in certain clusters.
+- The mail oreder company should target the clusters 2 and 16 where the customers data are over represented and neglect clusters 1,4, 10 where the customers clusters are under represented.
+- The over-represented customer clusters shows that it belongs to category of older(45-60) and average income earners male.
+On the other hand, the customers clusters that are underrepresented belong to the category of younger and average earners females. 
+
+
+# Licensing, Authors, Acknowledgements
+Credits must be given to Udacity for providing starting code for this project. The data was provided by Udacity partners at Bertelsmann Arvato Analytics.
