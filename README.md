@@ -5,3 +5,12 @@ This project is a part of Udacity Data Science Nanodegree. In this project AZ Di
 We look at relationships between demographics features, organize the population into clusters, and see how prevalent customers are in each of the segments obtained.
 
 We are not allowed to publish the data provided by Arvato Financial Services due to the terms and conditions. In the notebook you can find the code and the analysis that I perfomed on the datasets.
+
+# Installation
+The following libraries are expected to be used in this project:
+
+NumPy
+pandas
+Sklearn / scikit-learn
+Matplotlib (for data visualization)
+Seaborn (for data visualization) The code should run with no issues using Python versions 3.*.
